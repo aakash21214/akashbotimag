@@ -3,5 +3,5 @@ import dotenv
 
 dotenv.load_dotenv()
 
-API_KEY = os.environ.get("K89687449288957") # api key from https://ocr.space/ocrapi
-BOT_TOKEN = os.environ.get("5879801669:AAGfE5XNGQ6t_fnOrWCGFbI3Y5njsqRuRVU") # bot token from @BotFather
+API_KEY = os.environ.get("K81197495388957") # api key from https://ocr.space/ocrapi
+BOT_TOKEN = os.environ.get("6225708125:AAGf9b7YvJXmXCGjW1yF9KFZg3FzcqVd_1M") # bot token from @BotFather
